@@ -1,0 +1,35 @@
+<!-- stand classes -->
+'stand',
+'standBHP',
+'standLHP',
+'standRHP',
+'standleanforward',
+
+<!-- sit classes -->
+'sitS',
+'sitSBHP',
+'sitSLHP',
+'sitSRHP',
+'sitLf',
+'sitLfBHP',
+'sitLfLHP',
+'sitLfRHP',
+'sitLb',
+'sitLbBHP',
+'sitLbLHP',
+'sitLbRHP',
+
+<!-- in the floor, no need to include -->
+'sitfloorS',
+'sitfloorSLHP',
+'sitfloorSBHP',
+'sitfloorSRHP',
+'sitfloorLf',
+'sitfloorLfLHP',
+'sitfloorLfBHP',
+'sitfloorLfRHP',
+'sitfloorLB',
+'sitfloorLBLHP',
+'sitfloorLBBHP',
+'sitfloorLBRHP',
+'leandown'

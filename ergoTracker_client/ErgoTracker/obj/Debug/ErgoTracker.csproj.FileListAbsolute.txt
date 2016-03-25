@@ -1,0 +1,29 @@
+c:\users\michael\documents\visual studio 2015\Projects\ErgoTracker\ErgoTracker\bin\Debug\ErgoTracker.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\ErgoTracker\ErgoTracker\bin\Debug\ErgoTracker.exe
+c:\users\michael\documents\visual studio 2015\Projects\ErgoTracker\ErgoTracker\bin\Debug\ErgoTracker.pdb
+c:\users\michael\documents\visual studio 2015\Projects\ErgoTracker\ErgoTracker\obj\Debug\ErgoTracker.Form1.resources
+c:\users\michael\documents\visual studio 2015\Projects\ErgoTracker\ErgoTracker\obj\Debug\ErgoTracker.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\ErgoTracker\ErgoTracker\obj\Debug\ErgoTracker.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\ErgoTracker\ErgoTracker\obj\Debug\ErgoTracker.exe
+c:\users\michael\documents\visual studio 2015\Projects\ErgoTracker\ErgoTracker\obj\Debug\ErgoTracker.pdb
+c:\users\michael\documents\visual studio 2015\Projects\ErgoTracker\ErgoTracker\obj\Debug\ErgoTracker.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ErgoTracker\ErgoTracker\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ErgoTracker\ErgoTracker\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ErgoTracker\ErgoTracker\obj\Debug\ErgoTracker.KinectForm.resources
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\bin\Debug\green_alert.png
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\bin\Debug\Icon.ico
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\bin\Debug\red_alert.png
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\bin\Debug\yellow_alert.png
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\bin\Debug\ErgoTracker.exe.config
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\bin\Debug\ErgoTracker.exe
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\bin\Debug\ErgoTracker.pdb
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\obj\Debug\ErgoTracker.Form1.resources
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\obj\Debug\ErgoTracker.KinectForm.resources
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\obj\Debug\ErgoTracker.ModesForm.resources
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\obj\Debug\ErgoTracker.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\obj\Debug\ErgoTracker.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\obj\Debug\ErgoTracker.exe
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\obj\Debug\ErgoTracker.pdb
+C:\Users\Michael\Documents\GitHub\cse118-218-fa15_Team05\ergoTracker_client\ErgoTracker\obj\Debug\ErgoTracker.csprojResolveAssemblyReference.cache

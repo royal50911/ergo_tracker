@@ -1,0 +1,38 @@
+{
+  "name": "2015-cse218-group5-algorithm",
+  "version": "0.22.333",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "test": "mocha",
+      "parse-data-all":"DATA=all && node ./src/transform.js",
+      "train-all":"DATA=all && node ./src/train.js",
+      "parse-data-single":"DATA=correctness && node ./src/transform.js",
+      "train-single":"DATA=correctness && node ./src/train.js",
+      "evaluate":"node ./src/evaluate.js",
+      "svm-train-all":"node-svm train ./Data/all_train_set.json  ./all_model.json" ,
+      "svm-evaluate-all":"node-svm evaluate ./all_model.json ./Data/all_test_set.json",
+      "svm-train-single":"node-svm train ./Data/correctness_train_set.json ./single_model.json",
+      "svm-evaluate-single":"node-svm evaluate ./single_model.json ./Data/correctness_test_set.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxUbi/algorithm-js.git"
+  },
+  "author": "Xinyu Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxUbi/algorithm-js/issues"
+  },
+  "homepage": "https://github.com/MaxUbi/algorithm-js#readme",
+  "dependencies": {
+    "csv": "^0.4.6",
+    "jsonfile": "^2.2.3",
+    "mocha": "^2.3.4",
+    "node-csv": "git+https://github.com/voodootikigod/node-csv.git",
+    "node-svm": "^2.1.6",
+    "q": "^1.4.1",
+    "should": "^7.1.1",
+    "touch": "^1.0.0"
+  }
+}
